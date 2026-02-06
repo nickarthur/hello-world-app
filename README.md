@@ -1,5 +1,7 @@
 # Hello World App
 
+![Tests](https://github.com/nickarthur/hello-world-app/actions/workflows/tests.yml/badge.svg)
+
 A Flask web app with several API endpoints.
 
 ## Setup
